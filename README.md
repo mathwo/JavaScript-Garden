@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 JavaScript Garden
 =================
 
@@ -41,3 +42,7 @@ Stack Overflow chat.
 [8]: https://github.com/caio
 [9]: https://github.com/blixt
 [10]: http://chat.stackoverflow.com/rooms/17/javascript
+=======
+JavaScript-Garden
+=================
+>>>>>>> 49d94f7343b91798dab26f65c5d8dc34b88651d8
